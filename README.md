@@ -1,7 +1,19 @@
 # 👋 Hi, I'm Joma Dahalan | AI-Augmented Front-End Developer
 
+> **Computer Science & IT Student** dedicated to mastering modern web ecosystems and leveraging Artificial Intelligence to accelerate digital solutions.
+
+---
+
+### 📊 MY LIVE 3D ISOMETRIC CALENDAR & METRICS
+<p align="center">
+  <!-- لوحة الإحصائيات ثلاثية الأبعاد الحية والواقعية لحسابك مباشرة وبدون روابط مكسورة -->
+  <img src="https://lecoq.io" alt="Joma's GitHub Live Metrics" width="100%" />
+</p>
+
+---
+
 ### 👤 Executive Summary
-An analytical and forward-thinking **Computer Science & IT student** specializing in **Front-End Engineering**. I architect modern, responsive, and user-centric web interfaces. By adopting an **AI-first methodology**, I utilize generative tools to bridge technical complexities, optimize script performance, and accelerate development workflows.
+An analytical and forward-thinking Computer Science & IT student specializing in Front-End Engineering. I architect modern, responsive, and user-centric web interfaces. By adopting an AI-first methodology, I utilize generative tools to bridge technical complexities, optimize script performance, and accelerate development workflows.
 
 - 🎯 **Current Milestone:** Deepening core software architecture, data structures, and web deployments.
 - 🤖 **AI Specialization:** Crafting smart automated scripts, integrations, and leveraging AI code pilots.
@@ -12,12 +24,20 @@ An analytical and forward-thinking **Computer Science & IT student** specializin
 ### 🛠️ Technological Arsenal & Stack
 
 #### 💻 Front-End Engineering & Architecture
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
 * **HTML5** ── `Advanced Layouts`
 * **CSS3** ── `Modern UI/UX Principles`
 * **JavaScript** ── `Interactivity & Logic`
 * **TypeScript** ── `Type-Safe Architecture`
 
 #### ⚙️ Core Languages & AI Automation
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
 * **Python** ── `AI Pipelines & Data Scripting`
 * **C++** ── `Algorithms & Problem Solving`
 * **Java** ── `Object-Oriented Programming`
@@ -26,11 +46,9 @@ An analytical and forward-thinking **Computer Science & IT student** specializin
 ---
 
 ### 📊 GitHub Analytics
-
 ```text
 ⚙️ GitHub Ingestion Data Layer Active
 ```
-
 * **Core Profile:** Student Developer Profile Verified.
 * **Repositories:** Active deployment for front-end practices and automated AI bots.
 
