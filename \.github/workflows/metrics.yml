@@ -1,58 +1,34 @@
-# 👋 Hi, I'm Joma Dahalan | AI-Augmented Front-End Developer
+name: Metrics Generation Engine
 
-> **Computer Science & IT Student** dedicated to mastering modern web ecosystems and leveraging Artificial Intelligence to accelerate digital solutions.
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
----
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Deploy Production Metrics & 3D Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: joma-dahalan
+          template: classic
+          
+          # 👇 السطرين السحريين لحفظ الصورة في الصفحة الرئيسية مباشرة لتظهر في الـ README
+          filename: github-metrics.svg
+          output_action: commit
 
-### 📊 MY 3D ISOMETRIC CALENDAR & METRICS
-<p align="center">
-  <!-- هذه الصورة سيتم توليدها وتحديثها تلقائياً بالكامل بواسطة الـ Workflow ثلاثي الأبعاد -->
-  <img src="github-metrics.svg" alt="Joma's GitHub Metrics and 3D Isometric Calendar" width="100%" />
-</p>
+          base: header, activity, community, repositories
+          config_timezone: Asia/Gaza
 
----
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-### 👤 Executive Summary
-An analytical and forward-thinking Computer Science & IT student specializing in Front-End Engineering. I architect modern, responsive, and user-centric web interfaces. By adopting an AI-first methodology, I utilize generative tools to bridge technical complexities, optimize script performance, and accelerate development workflows.
-
-- 🎯 **Current Milestone:** Deepening core software architecture, data structures, and web deployments.
-- 🤖 **AI Specialization:** Crafting smart automated scripts, integrations, and leveraging AI code pilots.
-- 🚀 **Core Belief:** The future belongs to developers who write precise code with the speed of AI automation.
-
----
-
-### 🛠️ Technological Arsenal & Stack
-
-#### 💻 Front-End Engineering & Architecture
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-
-* **HTML5** ── `Advanced Layouts`
-* **CSS3** ── `Modern UI/UX Principles`
-* **JavaScript** ── `Interactivity & Logic`
-* **TypeScript** ── `Type-Safe Architecture`
-
-#### ⚙️ Core Languages & AI Automation
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-
-* **Python** ── `AI Pipelines & Data Scripting`
-* **C++** ── `Algorithms & Problem Solving`
-* **Java** ── `Object-Oriented Programming`
-* **C Language** ── `Low-Level Fundamentals`
-
----
-
-### 📊 GitHub Analytics
-```text
-⚙️ GitHub Ingestion Data Layer Active
-```
-* **Core Profile:** Student Developer Profile Verified.
-* **Repositories:** Active deployment for front-end practices and automated AI bots.
-
----
-
-### 📬 Connect With Me
-* 📧 **Email:** [jomadahalan57@gmail.com](mailto:jomadahalan57@gmail.com)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
