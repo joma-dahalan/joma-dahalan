@@ -1,88 +1,40 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+# 👋 Hi, I'm Joma Dahalan | AI-Augmented Front-End Developer
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</p>
+### 👤 Executive Summary
+An analytical and forward-thinking **Computer Science & IT student** specializing in **Front-End Engineering**. I architect modern, responsive, and user-centric web interfaces. By adopting an **AI-first methodology**, I utilize generative tools to bridge technical complexities, optimize script performance, and accelerate development workflows.
 
-<!-- VISUAL DIVIDER -->
-<p align="center">
-  <img src="https://imgur.com" width="100%" />
-</p>
+- 🎯 **Current Milestone:** Deepening core software architecture, data structures, and web deployments.
+- 🤖 **AI Specialization:** Crafting smart automated scripts, integrations, and leveraging AI code pilots.
+- 🚀 **Core Belief:** The future belongs to developers who write precise code with the speed of AI automation.
 
-## ⚡ About Me / Executive Summary
+---
+
+### 🛠️ Technological Arsenal & Stack
+
+#### 💻 Front-End Engineering & Architecture
+* **HTML5** ── `Advanced Layouts`
+* **CSS3** ── `Modern UI/UX Principles`
+* **JavaScript** ── `Interactivity & Logic`
+* **TypeScript** ── `Type-Safe Architecture`
+
+#### ⚙️ Core Languages & AI Automation
+* **Python** ── `AI Pipelines & Data Scripting`
+* **C++** ── `Algorithms & Problem Solving`
+* **Java** ── `Object-Oriented Programming`
+* **C Language** ── `Low-Level Fundamentals`
+
+---
+
+### 📊 GitHub Analytics
 
 ```text
-💡 Shifting the paradigm of traditional development by integrating AI capabilities into scalable Front-End architectures.
+⚙️ GitHub Ingestion Data Layer Active
 ```
 
-An analytical and forward-thinking **Computer Science & IT student** specializing in **Front-End Engineering**. I architect modern, responsive, and highly interactive user interfaces. By adopting an **AI-first methodology**, I utilize generative models to bridge technical complexities, optimize script performance, and accelerate the software development lifecycle.
-
-* 🎯 **Current Milestone:** Deepening core software architecture, data structures, and production-grade web deployments.
-* 🤖 **AI Specialization:** Crafting smart automated scripts, continuous integration workflows, and leveraging AI code pilots.
-* 🚀 **Core Belief:** The future belongs to developers who write precise code with the speed and assistance of AI automation.
+* **Core Profile:** Student Developer Profile Verified.
+* **Repositories:** Active deployment for front-end practices and automated AI bots.
 
 ---
 
-## 🛠️ Technological Arsenal & Stack
-
-### 🔵 Front-End Engineering & Architecture
-<p align="left">
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="HTML5" />
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="CSS3" />
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="JavaScript" />
-  </a>
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="TypeScript" />
-  </a>
-</p>
-
-### ⚙️ Core Languages & AI Automation Pipelines
-<p align="left">
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="Python" />
-  </a>
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="C++" />
-  </a>
-  <a href="https://oracle.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="Java" />
-  </a>
-</p>
-
----
-
-## 📊 Analytics Dashboard & Contributions
-
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" width="100%" />
-</p>
-
----
-
-## 📬 Global Connectivity
-
-<p align="center">
-  <a href="mailto:joma.dahalan@example.com">
-    <img src="https://shields.io" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+### 📬 Connect With Me
+* 📧 **Email:** [jomadahalan57@gmail.com](mailto:jomadahalan57@gmail.com)
