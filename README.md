@@ -4,10 +4,17 @@
 
 ---
 
-### 📊 MY LIVE 3D ISOMETRIC CALENDAR & METRICS
+### 📊 ACCOUNT PERFORMANCE & ANALYTICS
 <p align="center">
-  <!-- لوحة الإحصائيات ثلاثية الأبعاد الحية والواقعية لحسابك مباشرة وبدون روابط مكسورة -->
-  <img src="https://lecoq.io" alt="Joma's GitHub Live Metrics" width="100%" />
+  <!-- بطاقة إحصائيات الحساب الاحترافية الملونة -->
+  <img src="https://vercel.app" width="49%" alt="Joma's GitHub Stats" />
+  <!-- بطاقة توزيع نسب اللغات البرمجية الحقيقية في حسابك -->
+  <img src="https://vercel.app" width="49%" alt="Joma's Top Languages" />
+</p>
+
+<p align="center">
+  <!-- عداد الأيام المتتالية للبرمجة والمساهمات الفخم -->
+  <img src="https://herokuapp.com" width="100%" alt="Joma's Commit Streak" />
 </p>
 
 ---
@@ -25,6 +32,7 @@ An analytical and forward-thinking Computer Science & IT student specializing in
 
 #### 💻 Front-End Engineering & Architecture
 <p align="left">
+  <!-- أيقونات الفرونت إند الرسومية الاحترافية الملونة -->
   <img src="https://skillicons.dev" />
 </p>
 
@@ -35,6 +43,7 @@ An analytical and forward-thinking Computer Science & IT student specializing in
 
 #### ⚙️ Core Languages & AI Automation
 <p align="left">
+  <!-- أيقونات اللغات والأدوات الرسومية الاحترافية -->
   <img src="https://skillicons.dev" />
 </p>
 
@@ -42,15 +51,6 @@ An analytical and forward-thinking Computer Science & IT student specializing in
 * **C++** ── `Algorithms & Problem Solving`
 * **Java** ── `Object-Oriented Programming`
 * **C Language** ── `Low-Level Fundamentals`
-
----
-
-### 📊 GitHub Analytics
-```text
-⚙️ GitHub Ingestion Data Layer Active
-```
-* **Core Profile:** Student Developer Profile Verified.
-* **Repositories:** Active deployment for front-end practices and automated AI bots.
 
 ---
 
