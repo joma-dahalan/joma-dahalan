@@ -47,7 +47,7 @@ An analytical and forward-thinking Computer Science & IT student specializing in
 ### 📬 Connect With Me
 
 * 📧 **Email:** jomadahalan57@gmail.com
-* 💼 **GitHub:** [://github.com](https://://github.com)
+* 💼 **GitHub:** https://github.com/joma-dahalan
 
 ---
 <p align="center"><i>"Building the future of web applications, one clean script at a time."</i></p>
