@@ -1,181 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:06b6d4&height=260&section=header&text=Joma%20Dahalan&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F5132,100:22C55E&height=220&section=header&text=Joma%20Dahalan&fontSize=75&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=AI-Augmented+Front-End+Developer;Computer+Science+%26+IT+Student;React+%7C+Next.js+%7C+TypeScript;Building+Intelligent+Digital+Experiences"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=joma-dahalan&style=for-the-badge&color=2563eb"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Exploring+AI+Powered+Development"/>
 
 </div>
 
 
-<br>
+## 👨‍💻 About Me
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284115-3c1c1d6e-9d43-4c32-bc6e-4a2b5d2a5c0c.gif">
 
 
-<div align="center">
-██████╗  ██████╗ ███╗   ███╗ █████╗
-██╔════╝ ██╔═══██╗████╗ ████║██╔══██╗
-██║  ███╗██║   ██║██╔████╔██║███████║
-██║   ██║██║   ██║██║╚██╔╝██║██╔══██║
-╚██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║
- ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
+I'm **Joma Dahalan**, a Front-End Developer passionate about creating modern, scalable and user-focused web applications.
 
-</div>
+My focus is building clean interfaces with strong architecture while exploring how Artificial Intelligence can improve the development workflow.
 
+```javascript
+const developer = {
+  name: "Joma Dahalan",
+  role: "Front-End Developer",
+  technologies: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  interests: [
+    "Web Architecture",
+    "AI Integration",
+    "Automation"
+  ]
+}
+role: "Front-End Developer",
+  technologies: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  interests: [
+    "Web Architecture",
+    "AI Integration",
+    "Automation"
+  ]
+}
 
----
-
-# 🧬 Developer Identity
-
-
-```yaml
-name: Joma Dahalan
-
-role:
-  - Front-End Developer
-  - Computer Science Student
-  - AI Explorer
-
-mission:
-  "Transform ideas into fast, intelligent and beautiful digital products"
-
-current_focus:
-  - React Ecosystem
-  - Next.js Architecture
-  - TypeScript Engineering
-  - AI Automation
-
-mindset:
-  "Code smarter. Build faster. Create impact."
-
-⚡ About Me
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-I am a Computer Science & IT student focused on creating modern web applications.
-My passion is combining:
-🚀 Modern Front-End Engineering
-🤖 Artificial Intelligence
-🎨 User Experience Design
-⚙️ Automation  
-I believe developers of the future are not only writing code — they are building intelligent systems.
 <br clear="right"/>
 
 
-🧠 Technology Core
-🎨 Front-End Systems
+🛠️ Tech Stack
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,python,cpp,git,github,vscode,figma,docker&perline=8"/>
 
 </p>
 
 
-⚙️ Programming Languages
-<p align="center">
+⚡ Current Focus
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+<td width="50%">
 
-</p>
+Front-End Engineering
+- Modern React patterns
+- Next.js applications
+- Component architecture
+- Performance optimization
+</td>
 
+<td width="50%">
 
-🛠️ Tools & Environment
-<p align="center">
+AI & Automation
+- AI-assisted development
+- Smart workflows
+- Automation scripts
+- API integrations
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma"/>
-
-</p>
-
-
-🛰️ Current System Status
-SYSTEM STATUS
-
-Frontend Engine       ██████████  ONLINE
-
-React Core            ██████████  ACTIVE
-
-TypeScript Layer      █████████░  RUNNING
-
-AI Integration        ████████░░  LEARNING
-
-Problem Solving       ██████████  ACTIVE
-
-
-STATUS: BUILDING THE FUTURE 🚀
-
-🏗️ Projects Database
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joma-dahalan&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joma-dahalan&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true"/>
-
-
-</div>
+</tr>
+</table>
 
 
 📊 GitHub Analytics
 <div align="center">
 
-
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=joma-dahalan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=joma-dahalan&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joma-dahalan&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=joma-dahalan&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joma-dahalan&theme=tokyonight&hide_border=true"/>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joma-dahalan&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 
-🏆 Achievement Matrix
+🟢 Contribution Graph
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joma-dahalan&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joma-dahalan&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
 
-🐍 Contribution Activity
+🏆 Achievements
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/joma-dahalan/joma-dahalan/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=joma-dahalan&theme=darkhub&no-frame=true&row=1"/>
 
 </div>
 
 
-📡 Connect Portal
+🌐 Connect With Me
 <div align="center">
-
 
 <a href="mailto:jomadahalan57@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Email-Contact-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 
 <a href="https://github.com/joma-dahalan">
-
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/GitHub-joma--dahalan-111111?style=for-the-badge&logo=github"/>
 </a>
-
 
 </div>
 
 
 <div align="center">
 
-
-"Building tomorrow's web with today's intelligence."
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:020617&height=150&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0D1117&height=120&section=footer"/>
 
 </div>
 ```
