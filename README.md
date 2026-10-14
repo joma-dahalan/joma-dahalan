@@ -1,53 +1,181 @@
-# 👋 Hi, I'm Joma Dahalan | AI-Augmented Front-End Developer
+<div align="center">
 
-> **Computer Science & IT Student** dedicated to mastering modern web ecosystems and leveraging Artificial Intelligence to accelerate digital solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:06b6d4&height=260&section=header&text=Joma%20Dahalan&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=AI-Augmented+Front-End+Developer;Computer+Science+%26+IT+Student;React+%7C+Next.js+%7C+TypeScript;Building+Intelligent+Digital+Experiences"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=joma-dahalan&style=for-the-badge&color=2563eb"/>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+██████╗  ██████╗ ███╗   ███╗ █████╗
+██╔════╝ ██╔═══██╗████╗ ████║██╔══██╗
+██║  ███╗██║   ██║██╔████╔██║███████║
+██║   ██║██║   ██║██║╚██╔╝██║██╔══██║
+╚██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║
+ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
+
+</div>
+
 
 ---
 
-### 👤 Executive Summary
+# 🧬 Developer Identity
 
-An analytical and forward-thinking Computer Science & IT student specializing in Front-End Engineering. I architect modern, responsive, and user-centric web interfaces. By adopting an AI-first methodology, I utilize generative tools to bridge technical complexities, optimize script performance, and accelerate development workflows.
 
-* 🎯 **Current Milestone:** Deepening core software architecture, data structures, and web deployments.
-* 🤖 **AI Specialization:** Crafting smart automated scripts, integrations, and leveraging AI code pilots.
-* 🚀 **Core Belief:** The future belongs to developers who write precise code with the speed of AI automation.
+```yaml
+name: Joma Dahalan
 
----
+role:
+  - Front-End Developer
+  - Computer Science Student
+  - AI Explorer
 
-### 🛠️ Technological Arsenal & Stack
+mission:
+  "Transform ideas into fast, intelligent and beautiful digital products"
 
-```yml
-📂 Front-End Engineering & Architecture
-├── HTML5          ─────────────── [ Advanced Layouts ]
-├── CSS3           ─────────────── [ Modern UI/UX Principles ]
-├── JavaScript     ─────────────── [ Interactivity & Logic ]
-└── TypeScript     ─────────────── [ Type-Safe Architecture ]
+current_focus:
+  - React Ecosystem
+  - Next.js Architecture
+  - TypeScript Engineering
+  - AI Automation
+
+mindset:
+  "Code smarter. Build faster. Create impact."
+
+⚡ About Me
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+I am a Computer Science & IT student focused on creating modern web applications.
+My passion is combining:
+🚀 Modern Front-End Engineering
+🤖 Artificial Intelligence
+🎨 User Experience Design
+⚙️ Automation  
+I believe developers of the future are not only writing code — they are building intelligent systems.
+<br clear="right"/>
+
+
+🧠 Technology Core
+🎨 Front-End Systems
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux"/>
+
+</p>
+
+
+⚙️ Programming Languages
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+
+</p>
+
+
+🛠️ Tools & Environment
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma"/>
+
+</p>
+
+
+🛰️ Current System Status
+SYSTEM STATUS
+
+Frontend Engine       ██████████  ONLINE
+
+React Core            ██████████  ACTIVE
+
+TypeScript Layer      █████████░  RUNNING
+
+AI Integration        ████████░░  LEARNING
+
+Problem Solving       ██████████  ACTIVE
+
+
+STATUS: BUILDING THE FUTURE 🚀
+
+🏗️ Projects Database
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joma-dahalan&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joma-dahalan&repo=YOUR_PROJECT&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+📊 GitHub Analytics
+<div align="center">
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=joma-dahalan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=joma-dahalan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joma-dahalan&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+🏆 Achievement Matrix
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joma-dahalan&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+
+🐍 Contribution Activity
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/joma-dahalan/joma-dahalan/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+📡 Connect Portal
+<div align="center">
+
+
+<a href="mailto:jomadahalan57@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+
+<a href="https://github.com/joma-dahalan">
+
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+</div>
+
+
+<div align="center">
+
+
+"Building tomorrow's web with today's intelligence."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:020617&height=150&section=footer"/>
+
+
+</div>
 ```
-
-```yml
-📂 Core Languages & AI Automation
-├── Python         ─────────────── [ AI Pipelines & Data Scripting ]
-├── C++            ─────────────── [ Algorithms & Problem Solving ]
-├── Java           ─────────────── [ Object-Oriented Programming ]
-└── C Language     ─────────────── [ Low-Level Fundamentals ]
-```
-
----
-
-### 📊 GitHub Profile Status
-
-```ini
-[Status]      Verified Student Developer Profile
-[Ecosystem]   Active Front-End practices & AI automated bots
-[Engine]      GitHub Ingestion Data Layer Active
-```
-
----
-
-### 📬 Connect With Me
-
-* 📧 **Email:** jomadahalan57@gmail.com
-* 💼 **GitHub:** https://github.com/joma-dahalan
-
----
-<p align="center"><i>"Building the future of web applications, one clean script at a time."</i></p>
