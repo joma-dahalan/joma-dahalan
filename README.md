@@ -1,172 +1,118 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Joma%20Dahalan&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Joma%20Dahalan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Augmented%20Front-End%20Developer%20%7C%20CS%20%26%20IT%20Student&descSize=18&descAlignY=60" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Building+modern%2C+responsive+web+interfaces;Writing+precise+code+with+AI-powered+speed;Learning+architecture%2C+algorithms+and+deployment" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=joma-dahalan&style=flat-square&color=22c55e"/>
+![Profile Views](https://komarev.com/ghpvc/?username=joma-dahalan&style=flat-square&color=22c55e)
+[![Email](https://img.shields.io/badge/Email-22C55E?style=flat-square&logo=gmail&logoColor=white)](mailto:jomadahalan57@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/joma-dahalan)
 
 </div>
 
-
-<br/>
-
-
-## 👨‍💻 Joma Dahalan
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/programmer.gif">
-
-
-I'm a **Front-End Developer** focused on building modern, scalable and high-performance web applications.
-
-I enjoy transforming ideas into clean interfaces with strong engineering principles.
-
-### Currently focused on:
-
-- ⚛️ React ecosystem
-- ▲ Next.js applications
-- 🔷 TypeScript architecture
-- 🎨 Modern UI systems
-- 🤖 AI-assisted development
-
-
-<br clear="right"/>
-
-
 ---
 
+## 👋 About Me
+
+I'm a **Computer Science & IT student** specializing in **Front-End Engineering**. I build modern, responsive, user-centric web interfaces, and I use AI as part of my workflow to solve technical problems faster, optimize scripts, and speed up development.
+
+> The future belongs to developers who write precise code with the speed of AI automation.
+
+|  |  |
+|---|---|
+| 🎯 **Current focus** | Core software architecture, data structures, and web deployment |
+| 🤖 **AI specialization** | Smart automation scripts, integrations, and AI coding assistants |
+| 🌐 **Main craft** | Clean, responsive front-end interfaces |
+
+---
 
 ## ⚡ Tech Stack
 
+**Front-End**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Core Languages & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td valign="top" width="33%">
+### 📊 [smart-money-gold-tracker](https://github.com/joma-dahalan/smart-money-gold-tracker)
+Real-time XAU/USD analytics dashboard built with Python and TradingView Lightweight Charts, with multi-source broker integration and live order data.
 
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4"/>
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
 
+### 🤖 [da7lan-ai](https://github.com/joma-dahalan/da7lan-ai)
+Python trading bot: an AI-assisted automation project.
 
-<td valign="top" width="33%">
-
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=4"/>
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🩺 [dr-khaled-dahlan](https://github.com/joma-dahalan/dr-khaled-dahlan.)
+Bilingual (Arabic / English) personal website for a surgeon at Nasser Medical Complex.
 
-<td valign="top" width="33%">
-
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,linux&perline=4"/>
-
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
 
+### 👑 [ALtaj-almalaki](https://github.com/joma-dahalan/ALtaj-almalaki)
+Offline-capable rental management system for suit rental shops (التاج الملكي).
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
 </tr>
 </table>
 
-
 ---
 
-
-## 📊 GitHub Overview
-
+## 📊 GitHub Stats
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=joma-dahalan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joma-dahalan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E" />
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=joma-dahalan&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joma-dahalan&theme=github-dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joma-dahalan&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joma-dahalan&theme=github-dark&bg_color=0D1117&color=22C55E&line=22C55E&point=ffffff&hide_border=true" width="100%" />
 
 </div>
 
-
-<br/>
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joma-dahalan&theme=github-dark&hide_border=true"/>
-
-</div>
-
-
 ---
 
-
-## 🟩 Contribution Activity
-
+## 📫 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joma-dahalan&theme=github-dark&bg_color=0D1117&color=22C55E&line=22C55E&point=ffffff&hide_border=true"/>
+[![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomadahalan57@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joma-dahalan)
 
-</div>
+*"Building the future of web applications, one clean script at a time."*
 
-
----
-
-
-## 🚀 Developer Philosophy
-
-Build simple.
-Think scalable.
-Write clean code.
-Keep learning.
-
----
-
-
-## 📫 Contact
-
-
-<div align="center">
-
-
-<a href="mailto:jomadahalan57@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-<a href="https://github.com/joma-dahalan">
-
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-
-</div>
-
-
-<br/>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
 
 </div>
