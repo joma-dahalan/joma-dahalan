@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Joma%20Dahalan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Augmented%20Front-End%20Developer%20%7C%20CS%20%26%20IT%20Student&descSize=18&descAlignY=60" width="100%" />
+<h1>Joma Dahalan</h1>
+
+**AI-Augmented Front-End Developer | CS & IT Student**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Building+modern%2C+responsive+web+interfaces;Writing+precise+code+with+AI-powered+speed;Learning+architecture%2C+algorithms+and+deployment" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joma-dahalan&style=flat-square&color=22c55e)
 [![Email](https://img.shields.io/badge/Email-22C55E?style=flat-square&logo=gmail&logoColor=white)](mailto:jomadahalan57@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/joma-dahalan)
 
@@ -98,7 +99,6 @@ Offline-capable rental management system for suit rental shops (التاج ال�
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joma-dahalan&theme=github-dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joma-dahalan&theme=github-dark&bg_color=0D1117&color=22C55E&line=22C55E&point=ffffff&hide_border=true" width="100%" />
 
 </div>
 
@@ -113,6 +113,5 @@ Offline-capable rental management system for suit rental shops (التاج ال�
 
 *"Building the future of web applications, one clean script at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
 
 </div>
